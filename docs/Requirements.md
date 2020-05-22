@@ -1,7 +1,6 @@
 # Requirements
 
-
-# Dependencies 
+### Dependencies
 - Javascript
 - HTML
 - CSS
@@ -9,10 +8,10 @@
 - manifest.json
 
 
-## Costs
+### Costs
 Registration: https://chrome.google.com/webstore/devconsole/register?hl=en
 
-## Resources
+### Resources
 - https://developer.chrome.com/webstore/publish
 - https://developer.chrome.com/webstore/publish#create-a-developer-account
 
