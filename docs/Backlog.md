@@ -4,7 +4,7 @@
 
 - [x]  create company email
 - [ ] create company logo
-- [ ]  add password and email to dashlane
+- [x]  add password and email to dashlane
 - [ ]  register account on chrome web developer portal: https://chrome.google.com/webstore/devconsole/register?hl=en
 - [ ] register account on clubhouse.io in order to track features to build/requirements
 
