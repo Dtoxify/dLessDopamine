@@ -25,19 +25,26 @@ a master chrome extension, designed to integrate every component to counteract a
 - hide today's news
 - specific timeline that the settings are active in order to prevent users from leaving the settings disabled
 - make the site automatically grey (so the link you insert will then change the CSS of the page)
+#### repo src/ex
+- https://github.com/jordwest/news-feed-eradicator
+- https://github.com/darrentu/Feed-Blocker-for-LinkedIn
+
 ### twitter
 - hide trends
 - hide all media
 - manually add the users you follow that you want to view their retweets, otherwise block everyone's retweets in order to remove clutter from people you do not know and in order to have more control over your usage
 - hide who to follow
 - mute users you follow (all at once)
+#### repo src/ex
 - https://github.com/Samin100/twitter-muter
-hthttps://github.com/thomaswang/minimal-twittertps://github.com/thomaswang/minimal-twitter- facebook
+- https://github.com/thomaswang/minimal-twittertps://github.com/thomaswang/minimal-twitter
+
+### facebook
 - hide news feed
 - https://github.com/jordwest/news-feed-eradicator/
 - implement defacebook in order to nullify behavior over time
 - https://github.com/barber5/defacebook
-- instagram
+### instagram
 - hide explore page
 - make the site grey and boring
 - delay site load
