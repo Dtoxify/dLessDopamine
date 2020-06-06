@@ -1,0 +1,8 @@
+{
+    "name": "Mindfl",
+    "version": "1.0",
+    "description": "A master switch for removing distractive UI elements for social media sites",
+    "icons": {"128", "mindfl_logo.png"},
+    "browser_action": "Mindfl",
+    "popup": "popup.html"
+}
