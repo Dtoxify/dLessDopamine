@@ -4,5 +4,5 @@
     "description": "A master switch to modify UI elements, in order to remove distractive UI elements",
     "icons": {"mindfl_logo.png"},
     "browser_action": "Mindfl",
-    "popup": "popup.html"
+    "index": "index.html"
 }
