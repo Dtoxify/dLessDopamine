@@ -1,7 +1,7 @@
 {
     "name": "Mindfl",
     "version": "1.0",
-    "description": "A master switch to modify UI elements, in order to remove distractive UI elements",
+    "description": "Redesigning the web to restore attention states and implement dopamine detox.",
     "icons": {"mindfl_logo.png"},
     "browser_action": "Mindfl",
     "index": "index.html"

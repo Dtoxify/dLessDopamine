@@ -14,7 +14,6 @@
 
 ## design
 - [ ]  create UI design on figma
-
 - [ ]  set up company wordpress site + blog
 - [ ]  set up pages for company (product hunt, linkedin, facebook, twitter, indiehackers, chrome web store, github)
 
@@ -28,7 +27,7 @@
   - [ ] removing news feeds and other unnecessary bloat
   - [ ] settings: the master control panel
   - [ ] muting users at once on twitter
-### order of operation
+
 #### launch minimum product
 - [ ] build manifest.json file and unpack file, render sample response and then style with CSS and add pages with HTML (est 5-10 mins for manifest.json, and 30 mins to render CSS and HTML page)
 - [ ] write out script for feed blocker for linkedin and facebook (https://github.com/darrentu/Feed-Blocker-for-LinkedIn) and (https://github.com/jordwest/news-feed-eradicator/)

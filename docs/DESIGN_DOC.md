@@ -1,4 +1,4 @@
-# mindfl
+# LessDopamine [Design Doc]
 a master chrome extension, designed to integrate every component to counteract attention fragmenting sites, redesigning the web to be more user-centric and perserving user's attention states.
 
 ## app components
