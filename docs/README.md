@@ -3,7 +3,7 @@
 Less Dopamine is a web extension designed to restore your attention states and automatically remove (based on user preferences) all the bloat + site clutter that hijacks your dopamine reward system.
 
 
-## Why Less Dopamine Extension is Crucial in Today's Times
+## Product's Purpose
 
 - The overall goal is to eliminate site clutter, dopamine hijacking content elements, restore your dopamine reward system (adding purposeful site navigation difficulty/friction), and to automatically redesign your web to be in the favor of your attention states, focus, time, and remaining present.
 - Assume no necessity to download 20+ different wellness/productivity extensions to nullify and curb your site usage and using the web normally.
