@@ -1,8 +1,38 @@
 {
-    "name": "Mindfl",
-    "version": "1.0",
+    "name": "LessDopamine",
     "description": "Redesigning the web to restore attention states and implement dopamine detox.",
-    "icons": {"mindfl_logo.png"},
-    "browser_action": "Mindfl",
-    "index": "index.html"
+    "version": "1.0",
+    "license": "MIT",
+    "manifest_version": 2,
+    "author": "Feras Baig",
+    "content_scripts": [
+        {
+            "css": [
+                "linkedin.css",
+                "twitter.css"
+            ],
+            "matches": [
+                "*://*.linkedin.com/*"
+            ]
+            
+        }
+    ],
+
+    "app": {
+        "background": {
+            "scripts": ["background.js"],
+            "persistent": false
+        }
+    },
+    "permissions": [
+        "webRequest",
+        "*://*.google.com/"
+      ],
+    "icons": { 
+      "16": "mindful_16.png", 
+      "128": "mindfl_128.png"
+    }
 }
+
+
+
